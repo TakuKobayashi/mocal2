@@ -34,7 +34,6 @@ gem 'annotate'
 gem 'kaminari'
 gem 'activerecord-import'
 gem 'devise'
-gem 'rmagick'
 
 gem 'httpclient'
 
