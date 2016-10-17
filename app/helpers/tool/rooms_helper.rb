@@ -1,0 +1,2 @@
+module Tool::RoomsHelper
+end
